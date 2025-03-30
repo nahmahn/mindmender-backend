@@ -1,3 +1,7 @@
 {
-    "additionalProp1": {}
+    "additionalProp1": {},
+    "default_user": {
+        "concerns": [],
+        "coping_strategies": []
+    }
 }

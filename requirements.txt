@@ -4,3 +4,4 @@ langchain_together
 langchain_community
 cohere
 python-dotenv
+python-multipart

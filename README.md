@@ -1,7 +1,4 @@
-Here’s a professional and well-structured `README.md` file in GitHub markdown format for your **SentiHack - Mental Health Support Chatbot** project:
-
-````markdown
-# 🧠 SentiHack - Mental Health Support Chatbot
+🧠 SentiHack - Mental Health Support Chatbot
 
 SentiHack is a sophisticated mental health support chatbot designed to provide empathetic, intelligent, and context-aware conversations. It combines state-of-the-art emotion detection, crisis monitoring, and advanced conversational AI to support users experiencing emotional distress.
 
